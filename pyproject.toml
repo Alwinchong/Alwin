@@ -5,8 +5,8 @@ description = ""
 authors = ["Andrea Reina <andrea@omnistream.co>"]
 
 [tool.poetry.dependencies]
-python = "^3.6"
-pandas = "^0.25"
+python = "^3.6.9"
+pandas = "^1.0.1"
 numpy = "^1.18.1"
 
 [tool.poetry.dev-dependencies]
